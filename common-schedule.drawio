@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T02:27:09.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0PfJ2t93emOt-gcTLRLb" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T02:27:48.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="c3fh1G1q5MfltLGYAhBv" version="14.6.6" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2022" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,16 +62,8 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1255" y="200" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-61" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="352.5" y="122.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-62" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="225" y="160" width="50" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="common-schedule" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-49" y="120" width="1590" height="40" as="geometry" />
+          <mxGeometry x="-47" y="120" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BOTIw7SFozuOj5DUvx4i-1" value="PreCheckTask" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.service;fontSize=14;strokeColor=#0e8088;fillColor=#99FFFF;" parent="1" vertex="1">
           <mxGeometry x="473.5" y="479" width="150" height="50" as="geometry" />

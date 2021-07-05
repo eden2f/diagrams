@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T02:25:12.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="P6C62AOYhDZxr_sdVLr9" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:25:55.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="cjWU5dM4gBbJHYff0trB" version="14.8.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1564" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8nlqihTdNNTVfNvSGMPw-33" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-40" width="1136" height="449" as="geometry" />
+          <mxGeometry x="194" y="-40" width="1136" height="400" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="S" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="194" y="440" width="1136" height="530" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-26" value="消费者组" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="39.5" width="230" height="290" as="geometry" />
+          <mxGeometry x="1027.5" y="15" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-1" value="Node" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1045" y="810" width="240" height="150" as="geometry" />
@@ -116,16 +116,16 @@
           <mxGeometry x="829" y="-570" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-11" value="MQ" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="730" y="450" width="230" height="290" as="geometry" />
+          <mxGeometry x="739" y="461" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-12" value="&lt;div&gt;&lt;/div&gt;Queue" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="783" y="500" width="140" height="60" as="geometry" />
+          <mxGeometry x="792" y="511" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-13" value="Queue&lt;div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="783" y="580" width="140" height="60" as="geometry" />
+          <mxGeometry x="792" y="591" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-14" value="Queue&lt;div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="783" y="660" width="140" height="60" as="geometry" />
+          <mxGeometry x="792" y="671" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-18" value="" style="endArrow=classic;html=1;entryX=0.502;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-33" target="8nlqihTdNNTVfNvSGMPw-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -133,14 +133,14 @@
             <mxPoint x="440" y="632.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nlqihTdNNTVfNvSGMPw-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8nlqihTdNNTVfNvSGMPw-27" target="8nlqihTdNNTVfNvSGMPw-11">
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8nlqihTdNNTVfNvSGMPw-27" target="8nlqihTdNNTVfNvSGMPw-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="515" y="595" as="sourcePoint" />
             <mxPoint x="740" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-22" value="消费者1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1074" y="119.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="1072.5" y="95" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="8nlqihTdNNTVfNvSGMPw-11" target="8nlqihTdNNTVfNvSGMPw-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -149,16 +149,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-25" value="消费者2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1074" y="219.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="1072.5" y="195" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-27" value="生产者组" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="325" y="50" width="230" height="290" as="geometry" />
+          <mxGeometry x="325" y="15" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-28" value="生产者1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370" y="115" width="150" height="75" as="geometry" />
+          <mxGeometry x="370" y="80" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-29" value="生产者2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370" y="227.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="370" y="192.5" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

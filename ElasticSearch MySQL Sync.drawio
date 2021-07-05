@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T02:42:18.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ef-xO7NqNh-rP5zyl_h8" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:42:43.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="aXeo2oQdbciYIbK7aGbH" version="14.8.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1564" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,13 +34,13 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="全文检索" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="510" y="120" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Function" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="业务能力" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="-177.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="Collaboration" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="搜索" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="590" y="-177.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-56" value="Application Event" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-56" value="数据导出" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="860" y="-177.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-57" value="Process" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;" parent="1" vertex="1">

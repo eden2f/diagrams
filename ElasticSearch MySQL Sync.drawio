@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T02:39:14.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="3vbpemOAEcS9dy3-T3-p" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:39:59.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="bqBfy92HrKxL9-f27ard" version="14.8.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1564" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,8 +41,8 @@
             <mxPoint x="421.5" y="-350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="269" y="-600" width="185" height="80" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="业务处理" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="250" y="120" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-48" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-49" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -57,8 +57,8 @@
             <mxPoint x="854" y="-350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="761.5" y="-480" width="185" height="80" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="全文检索" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="510" y="120" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-52" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-53" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -173,10 +173,7 @@
           <mxGeometry x="1095" y="155" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-54" value="Service" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.service;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8nlqihTdNNTVfNvSGMPw-55" value="Service" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.service;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="130" width="150" height="50" as="geometry" />
+          <mxGeometry x="190" y="-315" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

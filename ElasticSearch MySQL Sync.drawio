@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T02:18:15.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Kd9TKulmHgLxEbzBzj9C" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:18:28.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="OoaHe1KIdd8ZfsR9ZmEr" version="14.8.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1117" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxPoint x="740" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nlqihTdNNTVfNvSGMPw-22" value="Function" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-22" value="消费者" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1085" y="557.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="8nlqihTdNNTVfNvSGMPw-11" target="8nlqihTdNNTVfNvSGMPw-22">

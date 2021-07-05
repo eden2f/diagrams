@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T02:25:55.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="cjWU5dM4gBbJHYff0trB" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:26:21.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="yuDPtbjut22jtFr39VFK" version="14.8.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1564" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="194" y="440" width="1136" height="530" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-26" value="消费者组" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="1027.5" y="15" width="230" height="290" as="geometry" />
+          <mxGeometry x="1055" y="30" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-1" value="Node" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1045" y="810" width="240" height="150" as="geometry" />
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-22" value="消费者1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1072.5" y="95" width="150" height="75" as="geometry" />
+          <mxGeometry x="1100" y="110" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="8nlqihTdNNTVfNvSGMPw-11" target="8nlqihTdNNTVfNvSGMPw-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-25" value="消费者2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1072.5" y="195" width="150" height="75" as="geometry" />
+          <mxGeometry x="1100" y="210" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-27" value="生产者组" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="325" y="15" width="230" height="290" as="geometry" />
@@ -159,6 +159,12 @@
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-29" value="生产者2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="192.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-38" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="8nlqihTdNNTVfNvSGMPw-26" target="8nlqihTdNNTVfNvSGMPw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="520" as="sourcePoint" />
+            <mxPoint x="840" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

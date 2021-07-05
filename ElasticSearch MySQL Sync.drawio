@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T02:31:49.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="sUgoY5povphf_NXQntVU" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:33:19.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="mGWeUnF-dkNprzt0PWhr" version="14.8.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1564" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,8 +148,8 @@
         <mxCell id="8nlqihTdNNTVfNvSGMPw-25" value="消费者2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1100" y="195" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8nlqihTdNNTVfNvSGMPw-27" value="生产者组" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="325" y="15" width="230" height="290" as="geometry" />
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-27" value="MySQL &amp;amp; ES 数据同步" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="325" y="15" width="545" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-28" value="生产者1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="80" width="150" height="75" as="geometry" />
@@ -162,6 +162,9 @@
             <mxPoint x="790" y="520" as="sourcePoint" />
             <mxPoint x="840" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-39" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="-520" width="185" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

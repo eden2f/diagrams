@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T02:21:18.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="FVjp8x27iCo_VIjQoI9y" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:21:45.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="sa4V8g4k26sxHs78EtFn" version="14.8.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1117" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,6 +141,15 @@
         </mxCell>
         <mxCell id="8nlqihTdNNTVfNvSGMPw-25" value="task2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1090" y="630" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-27" value="生产者" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="716.5" y="670" width="230" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-28" value="数据更新生产者" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="761.5" y="735" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8nlqihTdNNTVfNvSGMPw-29" value="数据更新生产者" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="761.5" y="847.5" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
